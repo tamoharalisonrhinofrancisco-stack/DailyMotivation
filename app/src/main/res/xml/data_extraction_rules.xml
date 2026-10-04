@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules>
+    <cloud-backup>
+        <exclude domain="sharedpref" path="secure_state.xml" />
+        <exclude domain="sharedpref" path="device_auth.xml" />
+    </cloud-backup>
+</data-extraction-rules>

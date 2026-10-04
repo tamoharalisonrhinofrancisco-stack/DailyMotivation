@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Daily Motivation</string>
+    <string name="today">Today</string>
+    <string name="new_thought">New Thought</string>
+    <string name="copy">Copy</string>
+    <string name="about">About</string>
+    <string name="unauthorized_title">UNAUTHORIZED DEVICE</string>
+    <string name="unauthorized_message">This private edition of Daily Motivation is not authorized for this device.</string>
+    <string name="device_verification_failed">Device verification: Failed</string>
+    <string name="close_app">Close Application</string>
+    <string name="device_status">Device Status</string>
+    <string name="authorized">Authorized</string>
+    <string name="unauthorized">Unauthorized</string>
+    <string name="connection">Connection</string>
+    <string name="offline">Offline</string>
+    <string name="security_status">Security Status</string>
+    <string name="device_bound_active">Device-bound security: Active</string>
+    <string name="created_by">Created by TAMOHA Ralison Rhino Françisco</string>
+    <string name="offline_private_device_bound">Offline • Private • Device Bound</string>
+    <string name="copied_to_clipboard">Copied to clipboard</string>
+    <string name="error_occurred">An error occurred</string>
+    <string name="retry">Retry</string>
+    <string name="security_error">Security Error</string>
+    <string name="initialization_failed">Device authorization initialization failed</string>
+    <string name="default_message">Do not measure your journey by the distance remaining. Measure it by the strength you have already gained.</string>
+</resources>
